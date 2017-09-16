@@ -13,10 +13,22 @@ h1 {
 .linktext  {
   color: aquamarine;
   font-size: 16px;
+  font-variant: underline;
 }
 
 h2  {
-  font-size: 32;
-  font-weight: bold;
+  font-size: 42px;
+  font-weight: 300;
   color: white;
+}
+
+.normaltext {
+  color: gray;
+  font-size: 21px;
+}
+
+.copyrighttext  {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
 }
